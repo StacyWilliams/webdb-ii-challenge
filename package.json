@@ -9,5 +9,13 @@
   "author": "Lambda School",
   "devDependencies": {
     "nodemon": "^1.19.1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "helmet": "^3.21.0",
+    "knex": "^0.19.4",
+    "sqlite": "^3.0.3"
   }
 }
